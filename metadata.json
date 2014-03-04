@@ -1,0 +1,20 @@
+{
+  "name": "gioppoluca-odaiZabbixroxy",
+  "version": "0.0.1",
+  "summary": "",
+  "author": "764",
+  "description": "",
+  "dependencies": [
+    {
+      "name": "root/zabbix"
+    },
+    {
+      "name": "puppetlabs/mysql"
+    }
+  ],
+  "types": [],
+  "checksums": {},
+  "source": "",
+  "project_page": "",
+  "license": ""
+}
